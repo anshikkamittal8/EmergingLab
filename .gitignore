@@ -1,0 +1,23 @@
+# Virtual Environment
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter 
+.ipynb_checkpoints
+
+# ChromaDB / Vector Store Data
+data/vector_store/
+
+# General Data
+data/
+*.pdf
+*.csv
